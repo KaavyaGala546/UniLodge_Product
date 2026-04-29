@@ -23,7 +23,7 @@ This directory is the single source of truth for all technical documentation cov
 | Document | Description |
 |---|---|
 | [SYSTEM_DESIGN.md](./SYSTEM_DESIGN.md) | Full architecture analysis — layers, design patterns, component interactions, and deployment strategy |
-| [API_REFERENCE.md](./API_REFERENCE.md) | REST API endpoint reference — request/response schemas, authentication, and error formats |
+| [API_REFERENCE.md](./API_REFERENCE.md) | REST API endpoint reference — request/response schemas, authentication and error formats |
 | [SETUP_GUIDE.md](./SETUP_GUIDE.md) | Local development environment setup, environment variables, and troubleshooting |
 | [AI_ENGINE_SETUP.md](./AI_ENGINE_SETUP.md) | AI engine configuration — LLM integration, RAG pipeline, and OpenRouter API setup |
 
